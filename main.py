@@ -38,7 +38,6 @@ async def main():
         pygame.display.flip()
         clock.tick(FPS)
 
-        # Sleep a tiny bit to yield control to browser event loop
         await asyncio.sleep(0)
 
     pygame.quit()
@@ -46,5 +45,5 @@ async def main():
 
 
 if __name__ == "__main__":
-    # pygbag needs asyncio entrypoint
+    
     asyncio.run(main())
