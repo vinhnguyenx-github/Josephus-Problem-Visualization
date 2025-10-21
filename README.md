@@ -105,7 +105,3 @@ You can also host the generated build/ folder on GitHub Pages for online access.
 ## Attribution
 
 This README was written and formatted with the assistance of ChatGPT.
-
-```
-
-```
