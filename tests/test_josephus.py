@@ -16,7 +16,6 @@ class DummyScreen:
     def fill(self, color): pass
     def blit(self, *args, **kwargs): pass
 
-
 # -----------------------------
 # JosephusVis Logic Tests
 # -----------------------------
